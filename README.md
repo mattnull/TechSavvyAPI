@@ -18,7 +18,7 @@ For now there are <b>NO</b> rate limits. <br/>
 <h1>Examples</h1>
 <ul>
 <li>http://api.techsavvy.io/jobs/javascript+san+francisco</li>
-<li>http://api.techsavvy.io/jobs/javascript/jsonp?limit=200&callback=mySuperNeatCallback</li>
+<li>http://api.techsavvy.io/jobs/javascript?limit=200&format=jsonp&callback=mySuperNeatCallback</li>
 Get the latest 100 jobs
 <li>http://api.techsavvy.io/jobs?limit=100</li>
 </ul>
