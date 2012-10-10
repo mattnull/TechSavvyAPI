@@ -1,6 +1,7 @@
 TechSavvy API
 =============
 
+<img src="http://techsavvy.io/img/logo-lg.png" />
 The TechSavvy API is simple, free, and open. <br/>
 Response formats can be either <b>JSON</b> or <b>JSONP</b>. <br/>
 For now there are <b>NO</b> rate limits. <br/>
