@@ -1,5 +1,5 @@
 TechSavvy API
-=============
+-------------
 
 <img src="http://techsavvy.io/img/logo-lg.png" /> <br/>
 The TechSavvy API is simple, free, and open. <br/>
